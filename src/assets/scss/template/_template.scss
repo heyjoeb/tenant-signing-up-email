@@ -57,3 +57,28 @@ table.button.google table td {
 .wrapper.secondary {
   background: #f3f3f3;
 }
+.the-content {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+.the-content p {
+  color: #989898;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.the-content p.dark-gray {
+  color: #373041;
+  font-weight: 600;
+}
+.the-footer p {
+  color: #777777;
+}
+.the-footer h1 a {
+  font-style: italic;
+  font-weight: bold;
+  color: #777777;
+  font-size: 24px;
+}
+.the-footer .copyright {
+  font-size: 14px;
+}
